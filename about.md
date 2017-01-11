@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hello World! 
-Welcome to jekyll-materialize
+Check back for noise
